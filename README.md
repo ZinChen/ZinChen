@@ -1,5 +1,5 @@
 # ZinChen
 
-### Fullstack Web Developer **
+### Fullstack Web Developer
 
-### Ready to rock! **
+### Ready to rock!
