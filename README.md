@@ -1,3 +1,1 @@
-### Fullstack Web Developer
-
-### Ready to rock!
+### Fullstack
